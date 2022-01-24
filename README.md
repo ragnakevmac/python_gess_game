@@ -14,3 +14,5 @@ For example, game.make_move('e14', 'g14').
 
 This code contains only one class that contains all the methods for the mechanics of this game
 and contains all the private data members of the board.
+
+For a sample game play, uncomment the print statements at the bottom of the code.
